@@ -1,0 +1,364 @@
+.header{
+    color: #6c757d;     
+  font-weight: 300;    
+  margin-left: 5rem;
+  font-size:xx-large;
+  cursor: pointer;
+}
+.fixedbid{
+     color: #373a3c;     
+  font-weight: 400;   
+  margin-left: 9rem;
+  font-size:large;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.whoweare{
+      color: #373a3c;     
+  font-weight: 400;   
+  margin-left: 6rem;
+  font-size:large;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.resources{
+     color: #373a3c;     
+  font-weight: 400;   
+  margin-left: 3rem;
+  font-size:large;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.content{
+     color: #373a3c;     
+  font-weight: 400;   
+  margin-left: -3rem;
+  font-size:large;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.schedule-tn {
+  border-color: #ae96d9; 
+  color: #6f42c1;        
+  transition: background-color 0.3s, color 0.3s;
+  margin-left: -1rem;
+  font-weight: 700;
+  font-size:large;
+  cursor: pointer;
+}
+
+.schedule-btn:hover {
+  background-color: #6f42c1; 
+  color: #fff;             
+}
+.Para{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 850;
+    margin-top: 7rem;
+}
+.line{
+     font-size: x-large;
+    text-align: center;
+}
+.view{
+    margin-left: 30rem;
+    font-weight: 700;
+  font-size:x-large;
+  cursor: pointer;
+  background-color: #5d0ef1;
+ 
+}
+.schedule-btn {
+  border-color: #6f42c1; 
+  color: #6e58e0;        
+  transition: background-color 0.3s, color 0.3s;
+  margin-left: -30rem;
+  font-weight: 700;
+  font-size:x-large;
+  cursor: pointer;
+}
+
+.schedule-btn:hover {
+  background-color: #5d0ef1;
+  color: #fff;               
+  cursor: pointer;
+}
+.image {
+  display: flex;
+  align-items: center; 
+  gap: 10px;
+  padding-top: 8rem;
+ 
+}
+
+.inline-image {
+ 
+  width: 100px;
+  height: auto;
+}
+
+.inline-text {
+  margin: 0;
+}
+.brand{
+    font-size: xx-large;
+    text-align: center;
+}
+.csk{
+  width: 80px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+}
+.logo02{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+}
+.logo03{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+}
+.logo04{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+}
+.logo05{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo06{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo07{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo08{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo09{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo10{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo11{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}.logo12{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo13{
+ width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo14{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo15{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo16{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo17{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo18{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo19{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.logo20{
+  width: 100px;
+  height: auto;
+  display: flex;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+.secondimg{
+  width: 65%;
+  height: auto;
+  display: flex;
+  margin-left: 16rem;
+
+}
+.secpage{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: rgb(11, 0, 27);
+text-align: center;
+color: white;
+}
+.sticky-notes-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+
+  .sticky-note {
+    aspect-ratio: 1 / 1;        
+    min-width: 250px;           
+    padding: 20px;
+    box-shadow: 2px 4px 12px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #3a3838;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-bottom: 3rem;
+  }
+ .light-green {
+    background-color: #f8ebe04c; /* light green */
+  }
+
+  .sandal {
+    background-color: #d8c8f76e; /* sandalwood / wheat */
+  }
+
+  .purple {
+    background-color: #fbd6db5a; /* light purple */
+  }
+.light{
+  font-size:50px;
+  font-weight: 700;
+  color:rgba(128, 128, 128, 0.181)
+}
+.ui{
+  font-size: 27px;
+  font-weight: 700;
+}
+.cart{
+  font-weight:500;
+  font-size: 20px;
+  color:rgb(120, 117, 117)
+}
+.two{
+   font-size:50px;
+  font-weight: 700;
+  color:rgba(128, 128, 128, 0.181)
+}
+.full{
+  font-size: 27px;
+  font-weight: 700
+}
+.launch{
+  font-weight:500;
+  font-size: 20px;
+  color:rgb(120, 117, 117)
+}
+.three{
+  font-size:50px;
+  font-weight: 700;
+  color:rgba(128, 128, 128, 0.181)
+} 
+.front{
+  font-size: 27px;
+  font-weight: 700
+}
+.we{
+   font-weight:500;
+  font-size: 20px;
+  color:rgb(120, 117, 117)
+}
+.offer{
+  text-align: center;
+  font-weight: 500;
+  font-size: 35px;
+}
+.idea{
+   text-align: center;
+  font-weight: 500;
+  font-size: 23px;
+  color: rgb(99, 97, 97);
+}
+.fourpg{
+ text-align: center;
+  font-weight: 500;
+  font-size: 23px;
+  color: rgb(99, 97, 97);
+  background-color: #f5fbfe;
+padding-top: 2rem;}
+.tag-inline {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 6px;
+    font-weight: 500;
+    color: white;
+    margin: 0 4px;
+  }
+
+  .usable { background-color: #e3eefa;color: #000; }      
+  .blazing { background-color: #f9e6e8;color: #000; }      
+  .bugfree { background-color: #e5faea;color: #000; }    
+  .scalable { background-color: #f7f0db; color: #000; }  
+  .secure { background-color: #daecef;color: #000; }       
